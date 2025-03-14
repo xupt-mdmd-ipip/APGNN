@@ -1,0 +1,88 @@
+***********************************************************************************
+train time per DataSet(s): 1789.20153
+test time per DataSet(s): 3.19234
+accuracy list:  [[79.76644591]
+ [83.3446444 ]
+ [83.85949311]
+ [86.88773958]
+ [76.58608504]
+ [82.52790714]
+ [78.29210643]
+ [80.5316983 ]
+ [82.72916618]
+ [79.60497063]]
+average OA: 81.41 +- 2.87
+average AA: 82.70 +- 1.87
+average kappa: 75.9063 +- 3.4315
+accuracy for each class:
+Class 0: 80.19 +- 7.63
+Class 1: 84.90 +- 7.31
+Class 2: 67.45 +- 9.68
+Class 3: 93.74 +- 4.14
+Class 4: 99.02 +- 1.01
+Class 5: 69.41 +- 9.94
+Class 6: 82.94 +- 7.75
+Class 7: 68.88 +- 9.48
+Class 8: 97.73 +- 2.06
+0:[79.76644591]
+1:[83.3446444]
+2:[83.85949311]
+3:[86.88773958]
+4:[76.58608504]
+5:[82.52790714]
+6:[78.29210643]
+7:[80.5316983]
+8:[82.72916618]
+9:[79.60497063]
+best acc all=[86.88773958]
+qt.qpa.plugin: Could not find the Qt platform plugin "xcb" in ""
+This application failed to start because no Qt platform plugin could be initialized. Reinstalling the application may fix this problem.
+
+
+进程已结束,退出代码134 (interrupted by signal 6: SIGABRT)
+2023年1月11日 18:20:29
+
+
+
+***********************************************************************************
+train time per DataSet(s): 1823.26447
+test time per DataSet(s): 3.20766
+accuracy list:  [[82.8297957 ]
+ [85.84868129]
+ [80.79848354]
+ [86.88773958]
+ [76.58608504]
+ [82.52790714]
+ [87.09601928]
+ [82.70810419]
+ [82.72916618]
+ [79.85537432]]
+average OA: 82.79 +- 3.10
+average AA: 82.13 +- 1.15
+average kappa: 77.5477 +- 3.7520
+accuracy for each class:
+Class 0: 78.90 +- 9.52
+Class 1: 88.48 +- 6.59
+Class 2: 62.03 +- 12.30
+Class 3: 92.52 +- 4.36
+Class 4: 98.31 +- 1.69
+Class 5: 72.93 +- 9.15
+Class 6: 78.83 +- 9.06
+Class 7: 70.27 +- 15.19
+Class 8: 96.87 +- 4.25
+0:[82.8297957]
+1:[85.84868129]
+2:[80.79848354]
+3:[86.88773958]
+4:[76.58608504]
+5:[82.52790714]
+6:[87.09601928]
+7:[82.70810419]
+8:[82.72916618]
+9:[79.85537432]
+best acc all=[87.09601928]
+qt.qpa.plugin: Could not find the Qt platform plugin "xcb" in ""
+This application failed to start because no Qt platform plugin could be initialized. Reinstalling the application may fix this problem.
+
+
+进程已结束,退出代码134 (interrupted by signal 6: SIGABRT)

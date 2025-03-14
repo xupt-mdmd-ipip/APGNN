@@ -1,0 +1,38 @@
+{'__name__': '__main__', '__doc__': None, '__package__': None, '__loader__': <_frozen_importlib_external.SourceFileLoader object at 0x7effb27e5f90>, '__spec__': None, '__annotations__': {}, '__builtins__': <module 'builtins' (built-in)>, '__file__': '/media/XUPT/0158571d-fa1a-4147-b721-b7993d1903b5/lx/master/main.py', '__cached__': None, 'sep': '/', 'TRUE': b'I01\n', 'torch': <module 'torch' from '/home/XUPT/anaconda3/envs/py37/lib/python3.7/site-packages/torch/__init__.py'>, 'nn': <module 'torch.nn' from '/home/XUPT/anaconda3/envs/py37/lib/python3.7/site-packages/torch/nn/__init__.py'>, 'F': <module 'torch.nn.functional' from '/home/XUPT/anaconda3/envs/py37/lib/python3.7/site-packages/torch/nn/functional.py'>, 'partial': <class 'functools.partial'>, 'sio': <module 'scipy.io' from '/home/XUPT/anaconda3/envs/py37/lib/python3.7/site-packages/scipy/io/__init__.py'>, 'PCA': <class 'sklearn.decomposition._pca.PCA'>, 'FactorAnalysis': <class 'sklearn.decomposition._factor_analysis.FactorAnalysis'>, 'train_test_split': <function train_test_split at 0x7efef39bed40>, 'optim': <module 'torch.optim' from '/home/XUPT/anaconda3/envs/py37/lib/python3.7/site-packages/torch/optim/__init__.py'>, 'confusion_matrix': <function confusion_matrix at 0x7efef3ba5710>, 'accuracy_score': <function accuracy_score at 0x7efef3ba5560>, 'classification_report': <function classification_report at 0x7efef3babd40>, 'cohen_kappa_score': <function cohen_kappa_score at 0x7efef3ba5a70>, 'truediv': <built-in function truediv>, 'logging': <module 'logging' from '/home/XUPT/anaconda3/envs/py37/lib/python3.7/logging/__init__.py'>, 'plt': <module 'matplotlib.pyplot' from '/home/XUPT/anaconda3/envs/py37/lib/python3.7/site-packages/matplotlib/pyplot.py'>, 'rearrange': <function rearrange at 0x7efef2246950>, 'np': <module 'numpy' from '/home/XUPT/anaconda3/envs/py37/lib/python3.7/site-packages/numpy/__init__.py'>, 'sys': <module 'sys' (built-in)>, 'datetime': <module 'datetime' from '/home/XUPT/anaconda3/envs/py37/lib/python3.7/datetime.py'>, 'os': <module 'os' from '/home/XUPT/anaconda3/envs/py37/lib/python3.7/os.py'>, 'day': datetime.datetime(2023, 1, 2, 11, 8, 58, 441955), 'day_str': '01_02_11_08', 'save_loger_name': './terminal_log//01_02_11_08loger.txt', 'Logger': <class '__main__.Logger'>, 'log_type': 'utf-8', 'get_module': <function get_module at 0x7effb26727a0>}
+当前运行的模块为： main
+**************************************************
+ytrain shape (80,)
+Xtest shape:  (10169, 15, 15, 30)
+Ytest shape (10169,)
+Epoch :1	 Loss:2.846281	 Accuracy:31.250 OA:9.51	 AA:6.25
+Epoch :2	 Loss:2.732167	 Accuracy:31.250 OA:9.51	 AA:6.25
+Epoch :3	 Loss:2.800954	 Accuracy:31.250 OA:9.51	 AA:6.25
+Epoch :4	 Loss:2.766572	 Accuracy:31.250 OA:9.51	 AA:6.25
+Epoch :5	 Loss:2.766151	 Accuracy:31.250 OA:9.51	 AA:6.25
+Epoch :6	 Loss:2.789711	 Accuracy:31.250 OA:9.51	 AA:6.25
+Epoch :7	 Loss:2.768081	 Accuracy:31.250 OA:9.51	 AA:6.25
+Epoch :8	 Loss:2.745769	 Accuracy:31.250 OA:9.51	 AA:6.25
+Epoch :9	 Loss:2.791960	 Accuracy:37.500 OA:9.51	 AA:6.25
+Epoch :10	 Loss:2.792264	 Accuracy:31.250 OA:9.51	 AA:6.25
+Epoch :11	 Loss:2.732177	 Accuracy:50.000 OA:9.51	 AA:6.25
+Epoch :12	 Loss:2.754582	 Accuracy:56.250 OA:9.51	 AA:6.25
+Epoch :13	 Loss:2.796170	 Accuracy:62.500 OA:9.51	 AA:6.25
+Epoch :14	 Loss:2.736764	 Accuracy:62.500 OA:9.51	 AA:6.25
+Epoch :15	 Loss:2.698287	 Accuracy:62.500 OA:9.51	 AA:6.25
+Epoch :16	 Loss:2.762352	 Accuracy:75.000 OA:9.51	 AA:6.25
+Epoch :17	 Loss:2.694823	 Accuracy:81.250 OA:9.51	 AA:6.25
+Epoch :18	 Loss:2.722711	 Accuracy:81.250 OA:9.51	 AA:6.25
+Epoch :19	 Loss:2.681603	 Accuracy:81.250 OA:9.51	 AA:6.25
+Epoch :20	 Loss:2.742563	 Accuracy:81.250 OA:9.51	 AA:6.25
+Epoch :21	 Loss:2.709670	 Accuracy:81.250 OA:11.90	 AA:11.05
+Epoch :22	 Loss:2.654699	 Accuracy:81.250 OA:12.46	 AA:14.72
+Epoch :23	 Loss:2.699289	 Accuracy:81.250 OA:12.39	 AA:15.96
+Epoch :24	 Loss:2.694640	 Accuracy:87.500 OA:11.09	 AA:14.70
+Epoch :25	 Loss:2.679989	 Accuracy:75.000 OA:9.85	 AA:13.09
+Epoch :26	 Loss:2.632987	 Accuracy:75.000 OA:9.21	 AA:12.28
+Epoch :27	 Loss:2.672079	 Accuracy:75.000 OA:8.98	 AA:12.05
+Epoch :28	 Loss:2.651079	 Accuracy:75.000 OA:8.88	 AA:11.99
+Epoch :29	 Loss:2.670043	 Accuracy:68.750 OA:8.83	 AA:11.96
+Epoch :30	 Loss:2.682760	 Accuracy:75.000 OA:8.79	 AA:11.95
+Epoch :31	 Loss:2.607848	 Accuracy:81.250 OA:8.90	 AA:14.35
+Epoch :32	 Loss:2.630993	 Accuracy:87.500 OA:8.97	 AA:16.28
